@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dea7fab3fc53a1947b242465de30e8f0, type: 3}
+  m_Name: SkeletData
+  m_EditorClassIdentifier: 
+  health: 250
+  speed: 0.07
+  unitDamage: 70
+  cityDamage: 15
+  diraction: 0
+  scaleX: -3.392002
+  scaleY: 4.878423
+  colSizeX: 0.5
+  colSizeY: 0.33
+  colOffsetX: 0
+  colOffsetY: 0
+  controller: {fileID: 9100000, guid: aac5e2b66e5ab924eaa8020353e8de9d, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11a55f7ac5ed2943a7035e3adf8c64b, type: 3}
+  m_Name: turretData
+  m_EditorClassIdentifier: 
+  health: 350
+  fireRate: 3
+  range: 20
+  damage: 180
+  scaleX: -3.248955
+  scaleY: 3.629876
+  colSizeX: 0.7
+  colSizeY: 0.7
+  colOffsetX: 0
+  colOffsetY: 0.05
+  firePointX: -0.378
+  firePointY: 0.186
+  Tag: Tower
+  controller: {fileID: 9100000, guid: 0ffe5a6a30b74f040b05a1b02ea3c643, type: 2}
+  bulletInfo: {fileID: 11400000, guid: d6f6889ce88eb3d46afa62eb91ab865e, type: 2}

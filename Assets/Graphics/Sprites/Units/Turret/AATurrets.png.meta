@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: e08bc0709b2f4bf4c9456fb126652c2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5934621890715745680
+    second: AATurrets_0
+  - first:
+      213: -5270016437086323100
+    second: AATurrets_1
+  - first:
+      213: -160206752357227483
+    second: AATurrets_2
+  - first:
+      213: -6034331175898994655
+    second: AATurrets_3
+  - first:
+      213: -1332122561492179510
+    second: AATurrets_4
+  - first:
+      213: 8782681315831897985
+    second: AATurrets_5
+  - first:
+      213: -7296594567682640737
+    second: AATurrets_6
+  - first:
+      213: 4342015792812889491
+    second: AATurrets_7
+  - first:
+      213: 5517599392212559820
+    second: AATurrets_8
+  - first:
+      213: 5220464458120855608
+    second: AATurrets_9
+  - first:
+      213: 502953206914790567
+    second: AATurrets_10
+  - first:
+      213: -7539917949908053400
+    second: AATurrets_11
+  - first:
+      213: -6194091235485245418
+    second: AATurrets_12
+  - first:
+      213: 75013177577793110
+    second: AATurrets_13
+  - first:
+      213: -9011689260340445383
+    second: AATurrets_14
+  - first:
+      213: -7269588893089498940
+    second: AATurrets_15
+  - first:
+      213: 5709572390726110586
+    second: AATurrets_16
+  - first:
+      213: -376285111563558852
+    second: AATurrets_17
+  - first:
+      213: -1373353461092901275
+    second: AATurrets_18
+  - first:
+      213: 3232761500440504393
+    second: AATurrets_19
+  - first:
+      213: -2537590017981389163
+    second: AATurrets_20
+  - first:
+      213: -4983400547785757303
+    second: AATurrets_21
+  - first:
+      213: -1905259025031304955
+    second: AATurrets_22
+  - first:
+      213: -1197441691576719310
+    second: AATurrets_23
+  - first:
+      213: -459471277806032346
+    second: AATurrets_24
+  - first:
+      213: -1426787321114587780
+    second: AATurrets_25
+  - first:
+      213: 3269792153966478904
+    second: AATurrets_26
+  - first:
+      213: 3178907862120969865
+    second: AATurrets_27
+  - first:
+      213: 4000601386353404810
+    second: AATurrets_28
+  - first:
+      213: -5737358968670797672
+    second: AATurrets_29
+  - first:
+      213: -2628533926707122408
+    second: AATurrets_30
+  - first:
+      213: 4692901873567015620
+    second: AATurrets_31
+  - first:
+      213: 2973435266110062475
+    second: AATurrets_32
+  - first:
+      213: -2546176422468054516
+    second: AATurrets_33
+  - first:
+      213: 2867235250732701157
+    second: AATurrets_34
+  - first:
+      213: -4400180226106172140
+    second: AATurrets_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AATurrets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07281a755dcf3ada0800000000000000
+      internalID: -5934621890715745680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46efff2e8f32dd6b0800000000000000
+      internalID: -5270016437086323100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e02bbec4d6cdf0800000000000000
+      internalID: -160206752357227483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a97b44cfb14ca0800000000000000
+      internalID: -6034331175898994655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a9f49699538de0800000000000000
+      internalID: -1332122561492179510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fde95cf1a52e970800000000000000
+      internalID: 8782681315831897985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943b3356e94dba90800000000000000
+      internalID: -7296594567682640737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7adb9e963729c40800000000000000
+      internalID: 5517599392212559820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83088d4f3c0d27840800000000000000
+      internalID: 5220464458120855608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_10
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bcc4e649daf600800000000000000
+      internalID: 502953206914790567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_11
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629320a294dc5790800000000000000
+      internalID: -7539917949908053400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_12
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610aa8ac6da2a0aa0800000000000000
+      internalID: -6194091235485245418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_14
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f743b1d5c00f280800000000000000
+      internalID: -9011689260340445383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_16
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8b98b6d97c3f40800000000000000
+      internalID: 5709572390726110586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_17
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306cf64faa27caf0800000000000000
+      internalID: -376285111563558852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959fbbcb50f14c30800000000000000
+      internalID: 4342015792812889491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_13
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6566ffa66108a0100800000000000000
+      internalID: 75013177577793110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AATurrets_15
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 72
+        width: 114
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7267333, y: 0.363074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8764cea6b3d1b90800000000000000
+      internalID: -7269588893089498940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

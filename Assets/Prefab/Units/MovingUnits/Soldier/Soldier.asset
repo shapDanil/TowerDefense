@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb2e4e6aed9ee1148b5b7129e6976d7a, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  health: 100
+  fireRate: 0.3
+  range: 15
+  speed: 0.06
+  damage: 30
+  diraction: 1
+  scaleX: 1.932645
+  scaleY: 2.441452
+  colSizeX: 0.5
+  colSizeY: 0.45
+  colOffsetX: -0.1
+  colOffsetY: 0
+  firePointX: 0.127
+  firePointY: 0.0458
+  Z: 0
+  spawnOffsetY: 0.1
+  Tag: Soldier
+  controller: {fileID: 9100000, guid: 9c1e5944d8419314abe34e4856581e90, type: 2}
+  icon: {fileID: 6246832655069406539, guid: 68467f050d182684aa6006e463782e65, type: 3}
+  bulletInfo: {fileID: 11400000, guid: f36f4293c45c5f244b8917e4ead748e4, type: 2}
